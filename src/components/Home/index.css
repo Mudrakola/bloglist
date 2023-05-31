@@ -1,0 +1,61 @@
+.home-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+}
+.userImage {
+  height: 150px;
+}
+
+.name-sty {
+  font-family: 'Roboto';
+  font-size: 18px;
+  color: #12022f;
+  font-weight: bold;
+}
+
+.paragraph-1 {
+  font-family: 'Roboto';
+  font-size: 18px;
+  color: #9aa5b1;
+  font-weight: bold;
+}
+
+.image-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.post-head {
+  font-family: 'Roboto';
+  font-size: 20px;
+  color: #12022f;
+  font-weight: bold;
+}
+.date-sty {
+  font-family: 'Roboto';
+  font-size: 16px;
+  color: #9aa5b1;
+  font-weight: bold;
+}
+.list-container {
+  width: 90%;
+  list-style-type: none;
+  padding-left: 0px;
+}
+.head-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.description-para {
+  font-family: 'Roboto';
+  font-size: 16px;
+  color: #9aa5b1;
+  font-weight: bold;
+}
